@@ -4,6 +4,14 @@
 
 https://github.com/rvsp/database/blob/master/mongodb/product.json
 
+## Task Description
+
+<ol>
+  <li>I have completed the below questions in MongoDB Composs</li>
+  <li>Attached the Queries for each question in the Queries.txt file</li>
+  <li>And also attached the screen shorts for those question in png file</li>
+</ol>
+
 ## Questions
 
 <ul>
@@ -18,14 +26,6 @@ https://github.com/rvsp/database/blob/master/mongodb/product.json
   <li>Find products which contain product color indigo  and product price 492.00</li>
   <li>Delete the products which product price value are 28</li>
 </ul>
-
-## Task Description
-
-<ol>
-  <li>I have completed the above questions in MongoDB Composs</li>
-  <li>Attached the Queries for each question in the Queries.txt file</li>
-  <li>And also attached the screen shorts for those question in png file</li>
-</ol>
 
 
 
